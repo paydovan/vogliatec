@@ -20,7 +20,7 @@ module.exports = {
       },
       animation: {
         slider: "25s slider infinite linear"
-      }
+      },
     },
   },
   plugins: [
